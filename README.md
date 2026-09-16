@@ -9,7 +9,7 @@ Current device: Motorola Moto G84 5G (rhodep)
 
 What I tinker with: Custom ROMs, recovery environments, optimization modules, and getting performance out of daily drivers.
 
-Gaming: Free Fire MAX (always testing configurations, rendering tweaks, and performance stats).
+Gaming:always testing configurations, rendering tweaks, and performance stats
 
 
 Always open to tips, recommendations, and learning from more experienced developers and enthusiasts. Let's build and break things safely (mostly)! 🚀
